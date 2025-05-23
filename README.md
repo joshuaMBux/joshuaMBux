@@ -1,4 +1,4 @@
-
+![Logo](https://images3.alphacoders.com/125/1257394.jpg)
 # Hi :v
 
 -Python
@@ -26,7 +26,6 @@
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
 ## 🚀 About Me
